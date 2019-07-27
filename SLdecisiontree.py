@@ -7,7 +7,7 @@ from sklearn.ensemble import RandomForestRegressor
 import graphviz
 import time
 # YongBaek Cho
-# Ista 331
+
 
 def get_frame():
     #DataFrame from cars_and_temps_F18.csv
